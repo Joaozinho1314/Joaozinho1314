@@ -32,23 +32,6 @@
 
 ---
 
-### 🌐 Onde me encontrar
-<p align="center">
-  <a href="https://instagram.com/Sjoaovitor_mausolf">
-    <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:joaovitorsantos101325@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-✨ *“Sempre disposto a aprender e contribuir.”*
-
----
-
 ### 📬 Meus meios de contato 😄
 <p>
   <a href="https://instagram.com/Sjoaovitor_mausolf">
