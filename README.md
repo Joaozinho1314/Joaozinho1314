@@ -4,9 +4,10 @@
 
 ### 🚀 Most Used Languages
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaozinho1314&layout=compact&theme=tokyonight" 
-  />
+ <img 
+  src="https://github-readme-stats.vercel.app/api?username=Joaozinho1314&show_icons=true&theme=tokyonight" 
+/>
+
 </p>
 
 ---
@@ -14,8 +15,9 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?usernameJoaozinho1314&show_icons=true&theme=tokyonight" 
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaozinho1314&layout=compact&theme=tokyonight" 
+/>
+
 </p>
 
 ---
